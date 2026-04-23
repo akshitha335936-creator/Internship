@@ -1,0 +1,2 @@
+Model Accuracy: 85%
+Sample Prediction: Customer likely to stay
