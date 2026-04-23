@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Churn Prediction System
 
 This project predicts whether a customer will leave a service using Machine Learning.
@@ -22,3 +23,6 @@ This project predicts whether a customer will leave a service using Machine Lear
 
 3. Run prediction:
    python main.py
+=======
+# Internship
+>>>>>>> c91e2ff17562882529eb4f6f5fa2a02edc20c1ce
